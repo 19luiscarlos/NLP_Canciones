@@ -172,4 +172,3 @@ tidy_sentiment%>%
         strip.text = element_text(size = 9, color = "grey40", face = "bold"),
         plot.caption = element_text(size = 7.5, color = "grey40"))+
   coord_flip()
-save.image('BancoAzteca.RData')
